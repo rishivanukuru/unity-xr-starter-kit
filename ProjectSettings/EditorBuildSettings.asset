@@ -5,13 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BlankScene.unity
     guid: 543d37114032dd5428eb282dfafe0007
-  - enabled: 0
-    path: Assets/0_Templates/Scenes/VR/1_BasicCardboardVR.unity
-    guid: 61a938d402c9bb1489e56fd2c88433fd
-  - enabled: 0
+  - enabled: 1
     path: Assets/0_Templates/Scenes/AR/1_PlaceAnywhere.unity
     guid: d9d9068519231c64ab913e44537e0567
   - enabled: 0

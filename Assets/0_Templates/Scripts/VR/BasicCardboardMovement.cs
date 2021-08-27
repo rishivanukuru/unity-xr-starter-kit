@@ -19,7 +19,7 @@ public class BasicCardboardMovement : MonoBehaviour
     {
 
         // If the cardboard button is pressed
-        if (Google.XR.Cardboard.Api.IsTriggerPressed)
+        //if (Google.XR.Cardboard.Api.IsTriggerPressed)
         {
             // Move forward in the direction that the camera is facing
             transform.position += this.transform.GetChild(0).transform.forward.normalized;
