@@ -5,18 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/BlankScene.unity
-    guid: 543d37114032dd5428eb282dfafe0007
   - enabled: 1
-    path: Assets/0_Templates/Scenes/AR/1_PlaceAnywhere.unity
-    guid: d9d9068519231c64ab913e44537e0567
-  - enabled: 0
-    path: Assets/0_Templates/Scenes/AR/2_PlaceOnPlane.unity
-    guid: bc24d3252034468488baf6e692aa002f
-  - enabled: 0
-    path: Assets/0_Templates/Scenes/AR/3_ImageTracking.unity
-    guid: 479ccb6ee8d8dd0429ffc5607441c225
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a8b83ac2a88f647498905a6f25152f1c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 42de48bf6a7348c41bf053dec59b36ad, type: 2}
