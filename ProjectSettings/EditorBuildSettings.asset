@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.13.0/Hello Cardboard/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
+    path: Assets/_starter-kit/_Scenes/basic-vr-scene.unity
+    guid: 19d1ac65765b99a469888daddc43805c
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a8b83ac2a88f647498905a6f25152f1c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 42de48bf6a7348c41bf053dec59b36ad, type: 2}
